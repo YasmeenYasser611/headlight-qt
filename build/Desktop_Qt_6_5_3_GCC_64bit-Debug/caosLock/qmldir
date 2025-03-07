@@ -1,0 +1,5 @@
+module caosLock
+typeinfo appcaosLock.qmltypes
+prefer :/caosLock/
+Main 1.0 Main.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/caosLock/">
+    <file alias="Main.qml">/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/Main.qml</file>
+  </qresource>
+</RCC>
+

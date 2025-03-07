@@ -1,0 +1,14 @@
+-rootPath
+/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3
+-cmake-output
+-output-file
+/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appcaosLock.cmake
+-importPath
+/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/caosLock
+-importPath
+/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/home/yasmeen/Qt/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_caosLock.qrc
+/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appcaosLock_raw_qml_0.qrc

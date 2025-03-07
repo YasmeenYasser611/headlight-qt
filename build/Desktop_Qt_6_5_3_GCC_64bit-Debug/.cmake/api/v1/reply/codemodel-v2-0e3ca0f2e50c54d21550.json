@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cceccdc48d528c41e9bc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "caosLock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-db97ebc38e7cea80a40d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-4185c78c0a0b428229f8.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a5669da185249e335d89.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8d7f414dfff48a642b3a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock-Debug-2db1ea66dce1105690ad.json",
+					"name" : "appcaosLock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_autogen-Debug-9741528245cf869e401f.json",
+					"name" : "appcaosLock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_autogen_timestamp_deps-Debug-640b8ea4673021f59b39.json",
+					"name" : "appcaosLock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_qmlimportscan-Debug-5229a78178e30579de8c.json",
+					"name" : "appcaosLock_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_qmllint-Debug-a75669fc073aa7061430.json",
+					"name" : "appcaosLock_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_qmllint_json-Debug-de9d8072fb12ebea9156.json",
+					"name" : "appcaosLock_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_qmllint_module-Debug-7d2d7109155bf546d409.json",
+					"name" : "appcaosLock_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_qmltyperegistration-Debug-8b770a3bc1bc94063fd7.json",
+					"name" : "appcaosLock_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appcaosLock_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appcaosLock_tooling-Debug-912448fe686df7fe54d4.json",
+					"name" : "appcaosLock_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

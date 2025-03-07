@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/caosLock">
+    <file alias="qmldir">/home/yasmeen/ITI_9M_EMBEDDED_systems/ITI_9M_QT/CapsLock_Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/caosLock/qmldir</file>
+  </qresource>
+</RCC>
+

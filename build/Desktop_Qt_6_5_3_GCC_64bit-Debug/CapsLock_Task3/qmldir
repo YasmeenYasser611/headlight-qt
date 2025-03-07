@@ -1,0 +1,5 @@
+module CapsLock_Task3
+typeinfo appCapsLock_Task3.qmltypes
+prefer :/CapsLock_Task3/
+Main 1.0 Main.qml
+
